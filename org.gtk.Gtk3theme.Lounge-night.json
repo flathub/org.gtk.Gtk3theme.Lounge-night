@@ -60,8 +60,8 @@
         {
           "type": "git",
           "url": "https://github.com/monday15/lounge-gtk-theme.git",
-          "tag": "1.11",
-          "commit": "b3fe4d9e3be9f80eb4e5d0f1dba4ca65beb61f06"
+          "tag": "1.12",
+          "commit": "05bde8c591238a22328f46a7cc32ee82ae3e3356"
         }
       ]
     },
