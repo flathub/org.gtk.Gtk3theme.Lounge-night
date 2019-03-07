@@ -54,14 +54,14 @@
         "append-path": "/usr/share/runtime/share/themes/Lounge-night/gtk-3.0/bin"
       },
       "config-opts": [
-        "-Dflatpak=true", "-Dflatpak-ver=night322"
+        "-Dflatpak=true", "-Dflatpak-ver=night"
       ],
       "sources": [
         {
           "type": "git",
           "url": "https://github.com/monday15/lounge-gtk-theme.git",
-          "tag": "1.14",
-          "commit": "e70a561e291664f5d8ea4409a2ae85cdbc9b1317"
+          "tag": "1.15",
+          "commit": "3dff9f14f5404edfaa323746f3db7de00f1e49fe"
         }
       ]
     },
