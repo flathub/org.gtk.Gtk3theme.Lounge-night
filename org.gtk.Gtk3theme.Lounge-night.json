@@ -55,7 +55,7 @@
       },
       "config-opts": [
         "-Dflatpak=true",
-        "-Dflatpak-ver=dark"
+        "-Dflatpak-variant=dark"
       ],
       "sources": [
         {
